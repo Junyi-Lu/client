@@ -1,6 +1,3 @@
-Based on the requirements and the context you provided, here’s a README template you might use for your project. You can adjust it as needed:
-
-```markdown
 # Course Selection System (MERN Stack)
 
 <a href="https://ibb.co/Rg57rVd"><img src="https://i.ibb.co/0nwQ4dv/21701713325680-pic.png" alt="21701713325680-pic" border="0" /></a>
@@ -12,44 +9,6 @@ This project is a course selection system built with the MERN stack: MongoDB, Ex
 - **For Instructors**: Create courses and monitor enrollment.
 - **For Students**: Browse available courses and register as desired.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-- Node.js
-- npm or yarn
-- MongoDB
-
-### Installing
-
-Clone the repository:
-
-```bash
-git clone <repository-url>
-```
-
-Navigate to the project directory:
-
-```bash
-cd <repository-name>
-```
-
-Install dependencies for the server:
-
-```bash
-cd server
-npm install
-```
-
-Install dependencies for the client:
-
-```bash
-cd ..
-cd src
-npm install
-```
 
 ### Running the application
 
