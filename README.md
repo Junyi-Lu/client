@@ -1,6 +1,6 @@
 # Course Selection System (MERN Stack)
 
-![Learning System Screenshot](https://app.gemoo.com/share/image-annotation/639071354454208512?codeId=DGWVyLrpnqlLo&origin=imageurlgenerator&card=639071353992835072)
+<a href="https://ibb.co/Rg57rVd"><img src="https://i.ibb.co/0nwQ4dv/21701713325680-pic.png" alt="21701713325680-pic" border="0" /></a>
 
 This project is a course selection system built with the MERN stack: MongoDB, Express.js, React, and Node.js. It offers a platform for instructors to create and monitor course enrollments and for students to register for various courses.
 
