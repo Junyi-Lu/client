@@ -48,7 +48,7 @@ npm start
 
 ## Authors
 
-- Your Name
+- Andre Lu
 
 ## License
 
