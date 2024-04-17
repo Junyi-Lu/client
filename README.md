@@ -44,7 +44,6 @@ npm start
 
 ## Usage
 
-- The server runs on `http://localhost:3000` by default.
 - The React client runs on `http://localhost:8080`.
 
 ## Built With
