@@ -57,10 +57,3 @@ npm start
 
 - Andre Lu
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
-Please replace `<repository-url>`, `<repository-name>`, and `<image-path>` with the actual URL of your repository, the name of your directory, and the path to the screenshot image you've uploaded, respectively. The screenshot image can be embedded directly using a relative path to the file in your repository if you're including it in your GitHub repository. If you want to link directly to the image you've uploaded here, you'll need to serve it from a web-accessible location.
-
-Would you like to proceed with embedding the image from the uploaded files or would you prefer to host it elsewhere?
